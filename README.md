@@ -1,6 +1,7 @@
 # SHAOXIAOJ
 基于HUSTOJ二改的OJ样式
 本站为您展示SHAOXIAOJ进行HUSTOJ二改的部分内容,各位观众感兴趣的话,点亮一个star关注支持一下~
+SHAOXIAOJ网址: [https://www.shaoxiaoj.top](https://www.shaoxiaoj.top)
 
 ## SHAOXIAOJ更新日志
 注意:db_info.inc.php 下称 "配置文件".
