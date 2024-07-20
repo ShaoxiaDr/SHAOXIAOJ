@@ -1,4 +1,4 @@
-<!--
+<!-- 
 建议将此style代码放在header.php中.此代码为百分比图标css.
 <style>
 .skillbar{
