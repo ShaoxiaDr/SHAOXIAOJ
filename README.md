@@ -4,6 +4,8 @@
 
 SHAOXIAOJ网址: [https://www.shaoxiaoj.top](https://www.shaoxiaoj.top)
 
+![image](http://www.shaoxiaoj.top/github/image/index.png)
+
 ## SHAOXIAOJ更新日志
 注意:db_info.inc.php 下称 "配置文件".
 
