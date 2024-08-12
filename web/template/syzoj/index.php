@@ -24,15 +24,15 @@
                 $add_score1 = "2金币";//每日签到金币值
                 
                 //连续登录有奖
-                if($lianxu == 7) $add_score = "<font color=orange>[连续登录7天专享]5金币</font>";
-                else if($lianxu == 15) $add_score = "<font color=orange>[连续登录15天专享]8金币</font>";
-                else if($lianxu == 30) $add_score = "<font color=orange>[连续登录30天专享]15金币</font>";
-                else if($lianxu == 66) $add_score = "<font color=orange>[连续登录66天专享]25金币</font>";
-                else if($lianxu == 150) $add_score = "<font color=orange>[连续登录150天专享]36金币</font>";
-                else if($lianxu == 365) $add_score = "<font color=orange>[连续登录365天专享]73金币</font>";
-                else if($lianxu == 666) $add_score = "<font color=orange>[连续登录666天专享]128金币</font>";
-                else if($lianxu == 1000) $add_score = "<font color=orange>[连续登录1000天专享]288金币</font>";
-                else if($lianxu == 1314) $add_score = "<font color=orange>[连续登录1314天专享]520金币</font>";
+                if($lianxu == 6) $add_score = "<font color=orange>[连续登录7天专享]5金币</font>";
+                else if($lianxu == 14) $add_score = "<font color=orange>[连续登录15天专享]8金币</font>";
+                else if($lianxu == 29) $add_score = "<font color=orange>[连续登录30天专享]15金币</font>";
+                else if($lianxu == 65) $add_score = "<font color=orange>[连续登录66天专享]25金币</font>";
+                else if($lianxu == 149) $add_score = "<font color=orange>[连续登录150天专享]36金币</font>";
+                else if($lianxu == 364) $add_score = "<font color=orange>[连续登录365天专享]73金币</font>";
+                else if($lianxu == 665) $add_score = "<font color=orange>[连续登录666天专享]128金币</font>";
+                else if($lianxu == 999) $add_score = "<font color=orange>[连续登录1000天专享]288金币</font>";
+                else if($lianxu == 1313) $add_score = "<font color=orange>[连续登录1314天专享]520金币</font>";
 
                 //连续登录有奖
                 if($next_day == 7) $add_score1 = "<font color=orange>[连续登录7天专享]5金币</font>";
