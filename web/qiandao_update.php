@@ -47,7 +47,9 @@ if($search){
 	exit(1);
 	}
 }
+//有的服务器exit(1);没有起到终止作用,所以我这里再加一个else语句了.
 
+else{
 //看看该用户昨天签到没
 $yesterday = date('Y-m-d', strtotime('-1 day'));  
 $sql_search_yesterday = "SELECT * FROM qiandao WHERE user_id = ? AND DATE(time) = ?";  
@@ -98,7 +100,7 @@ if(!pdo_query($sql_gold,$add_score,$userId))
 	exit(1);
 }
 ?>
-
+<?php }?>
 <!--返回上一页,即主页index.php-->
 <script language=javascript>
 	history.go(-1);
