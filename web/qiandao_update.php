@@ -100,8 +100,9 @@ if(!pdo_query($sql_gold,$add_score,$userId))
 	exit(1);
 }
 ?>
-<?php }?>
+
 <!--返回上一页,即主页index.php-->
 <script language=javascript>
 	history.go(-1);
 </script>
+<?php }?>
