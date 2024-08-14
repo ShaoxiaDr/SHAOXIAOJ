@@ -57,13 +57,13 @@
           else if(!isset($_SESSION[$OJ_NAME.'_user_id'])){
             echo "<a href='loginpage.php' style='font-size: 48px;";
             echo "color:orange;";
-            echo "'><b>登录后打卡</b></span>";
+            echo "'><b>登录后打卡</b></a>";
           }
           //用户还没签到呢.
           else{
             echo "<a href='qiandao_update.php' style='font-size: 48px;";
             echo "color:orange;";
-            echo "'><b>点我打卡</b></span>";
+            echo "'><b>点我打卡</b></a>";
           }
           ?>
           <!--this-div是动态字体样式,请确保你的CSS有这种样式-->
