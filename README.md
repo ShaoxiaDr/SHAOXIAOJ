@@ -12,6 +12,14 @@ SHAOXIAOJ网址: [https://www.shaoxiaoj.top](https://www.shaoxiaoj.top)
 注意:db_info.inc.php 下称 "配置文件".
 
 <details open>
+<summary><b>2024年-9月</b></summary>
+	
+日期  | 类型 |  更新内容
+------- | :--: | :-------
+09-10 | 更新 | 更新班级列表localstorage逻辑,使其记住你选择新版/旧版页面.
+</details>
+
+<details>
 <summary><b>2024年-8月</b></summary>
 	
 日期  | 类型 |  更新内容
