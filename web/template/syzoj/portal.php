@@ -9,10 +9,10 @@
         <center><h3>未登录用户无法显示做题数据哦,请登录后再来吧。谢谢配合哦~</h3>
         <br><br><br><br><br><br><br><br><br><br><br><br>";
         if($OJ_NAME=="SHAOXIAOJ"){
-        echo "<center><img src='shaoxiaoj.PNG' width=500px></center>
-        <center><h3>如有疑问,请联系少侠Dr(QQ:847075097)以解决问题哦</h3></center>";
-        exit(1);
+        	echo "<center><img src='shaoxiaoj.PNG' width=500px></center>
+        	<center><h3>如有疑问,请联系少侠Dr(QQ:847075097)以解决问题哦</h3></center>";
         }
+	exit(1);
     }
 ?>
 <style>
