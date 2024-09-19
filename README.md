@@ -16,6 +16,7 @@ SHAOXIAOJ网址: [https://www.shaoxiaoj.top](https://www.shaoxiaoj.top)
 	
 日期  | 类型 |  更新内容
 ------- | :--: | :-------
+09-19 | 新增 | 新增系统日志页面,该页面只允许管理员访问,目的是为了查看权限人员操作记录.
 09-10 | 更新 | 更新班级列表localstorage逻辑,使其记住你选择新版/旧版页面.
 </details>
 
