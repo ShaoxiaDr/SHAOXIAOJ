@@ -12,6 +12,15 @@ SHAOXIAOJ网址: [https://www.shaoxiaoj.top](https://www.shaoxiaoj.top)
 注意:db_info.inc.php 下称 "配置文件".
 
 <details open>
+<summary><b>2024年-10月</b></summary>
+	
+日期  | 类型 |  更新内容
+------- | :--: | :-------
+10-1 | 修复 | 修复后台商城页面外来网址的缩略图图片无法正常显示的问题.
+10-1 | 新增 | 后台权限添加新增操作记录审验.
+</details>
+
+<details>
 <summary><b>2024年-9月</b></summary>
 	
 日期  | 类型 |  更新内容
