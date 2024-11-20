@@ -12,6 +12,15 @@ SHAOXIAOJ网址: [https://www.shaoxiaoj.top](https://www.shaoxiaoj.top)
 注意:db_info.inc.php 下称 "配置文件".
 
 <details open>
+<summary><b>2024年-11月</b></summary>
+	
+日期  | 类型 |  更新内容
+------- | :--: | :-------
+11-20 | 更新 | 更新题解逻辑,如果此题你AC过,则你可以免费查看此题的题解.
+11-20 | 更新 | 更新提交记录的下拉栏UI样式.
+</details>
+
+<details>
 <summary><b>2024年-10月</b></summary>
 	
 日期  | 类型 |  更新内容
