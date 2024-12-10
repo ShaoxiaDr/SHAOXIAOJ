@@ -12,6 +12,15 @@ SHAOXIAOJ网址: [https://www.shaoxiaoj.top](https://www.shaoxiaoj.top)
 注意:db_info.inc.php 下称 "配置文件".
 
 <details open>
+<summary><b>2024年-12月</b></summary>
+	
+日期  | 类型 |  更新内容
+------- | :--: | :-------
+12-10 | 更新 | 竞赛创建/编辑页面新增统计所选题目的总分显示.
+12-10 | 新增 | 新增班级临时管理权限,该权限在教练权限管理班级的前提下,无法修改班级名称和创建新的班级.
+</details>
+
+<details>
 <summary><b>2024年-11月</b></summary>
 	
 日期  | 类型 |  更新内容
