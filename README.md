@@ -5,7 +5,7 @@
 SHAOXIAOJ网址: [https://www.shaoxiaoj.com](https://www.shaoxiaoj.com)
 
 
-![image](index.png)
+![image](index250209.png)
 
 
 ## SHAOXIAOJ更新日志
