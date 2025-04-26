@@ -12,6 +12,15 @@ SHAOXIAOJ网址: [https://www.shaoxiaoj.com](https://www.shaoxiaoj.com)
 注意:db_info.inc.php 下称 "配置文件".
 
 <details open>
+<summary><b>2025年-4月</b></summary>
+	
+日期  | 类型 |  更新内容
+------- | :--: | :-------
+04-20 | 更新 | 更新题目序号更改逻辑,保证序号的连续性.
+04-20 | 新增 | 配置文件新增"允许学生查看编译错误的结果"和"允许学生在竞赛中查看他人排名"的全局变量;
+</details>
+
+<details>
 <summary><b>2025年-2月</b></summary>
 	
 日期  | 类型 |  更新内容
